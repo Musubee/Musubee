@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, React,**
 
-- 📝 I regularly write articles on [https://medium.com/@Musubee](https://medium.com/@Musubee)
+- 📝 I write articles on [https://medium.com/@Musubee](https://medium.com/@Musubee)
 
 - 📫 How to reach me **asubee360@gmail.com**
 
