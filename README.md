@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Infinite Monkey Challenge](https://github.com/Musubee/InfiniteMonkeyChallenge)
 
-- 🌱 I’m currently learning **Django, React,**
+- 🌱 I’m currently learning **Flask, React, and SQL**
 
 - 📝 I write articles on [https://medium.com/@Musubee](https://medium.com/@Musubee)
 
