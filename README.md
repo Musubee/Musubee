@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aramis Subee</h1>
-<h3 align="center">An aspiring software engineer interested in machine learning, math, and video games.</h3>
+<h3 align="center">SWE @ Google.</h3>
 
 - 🔭 I’m currently working on [Infinite Monkey Challenge](https://github.com/Musubee/InfiniteMonkeyChallenge)
 
-- 🌱 I’m currently learning **Flask, React, and SQL**
+- 🌱 I’m currently learning **Go and Angular** (really leaning into the whole Google stack ain't I)
 
 - 📝 I write articles on [https://medium.com/@Musubee](https://medium.com/@Musubee)
 
