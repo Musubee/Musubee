@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Infinite Monkey Challenge](https://github.com/Musubee/InfiniteMonkeyChallenge)
 
-- 🌱 I’m currently learning **Go and Angular** (really leaning into the whole Google stack ain't I)
+- 🌱 I’m currently learning **Go and Angular** (really leaning into the whole Google stack)
 
 - 📝 I write articles on [https://medium.com/@Musubee](https://medium.com/@Musubee)
 
